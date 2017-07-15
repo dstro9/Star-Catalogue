@@ -1,4 +1,4 @@
-#Eric Bochsler and Daniel Stromecki
+#Daniel Stromecki, Eric Bochsler
 #Homework 7: Final Project
 #Globular Cluster Characterization
 
